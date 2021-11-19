@@ -1798,3 +1798,7 @@ body.is-article-visible #footer {
 body.is-preload #footer {
   opacity: 0;
 }
+
+#logo {
+  border-radius: 50%;
+}
